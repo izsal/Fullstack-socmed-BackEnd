@@ -18,6 +18,7 @@
     "password": null,
     "database": "database_production",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "db_uri":"mysql -hcontainers-us-west-203.railway.app -uroot -p7wOhU0wFMmI3ZYOzYcYy --port 6522 --protocol=TCP railway"
   }
 }
